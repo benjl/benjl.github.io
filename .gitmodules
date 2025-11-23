@@ -1,0 +1,3 @@
+[submodule "language-evolution-simulation"]
+	path = language-evolution-simulation
+	url = https://github.com/benjl/language-evolution-simulation
