@@ -1,3 +1,6 @@
 [submodule "language-evolution-simulation"]
 	path = language-evolution-simulation
 	url = https://github.com/benjl/language-evolution-simulation
+[submodule "ksp-xfer"]
+	path = ksp-xfer
+	url = https://github.com/benjl/ksp-xfer
